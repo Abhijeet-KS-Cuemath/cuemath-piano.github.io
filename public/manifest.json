@@ -1,0 +1,25 @@
+{
+  "short_name": "CUEMATH PIANO",
+  "name": "CUEMATH PIANO",
+  "icons": [
+    {
+      "src": "https://static.qumath.in/static/next/_next/static/images/favicon-e80e4846707f3ce25a16202d8491bbde.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://static.qumath.in/static/next/_next/static/images/favicon-e80e4846707f3ce25a16202d8491bbde.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.qumath.in/static/next/_next/static/images/favicon-e80e4846707f3ce25a16202d8491bbde.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
